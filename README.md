@@ -3,7 +3,7 @@
 
 ## 线上地址http://118.24.4.133:8888/
 
-## 手机安装包下载地http://chenhaichao.cn/music.apk
+## 手机安装包下载地http://chenhaichao.cn/kequ.apk
 
 ## 目录结构
 public----webpack打包后生成的文件
